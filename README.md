@@ -1,0 +1,2 @@
+# conflict-resolution
+test file
